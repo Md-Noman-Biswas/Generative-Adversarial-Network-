@@ -101,18 +101,6 @@ Controlled using **Noise Severity Score (NSS)**.
 
 ---
 
-## 📁 Project Structure
-📦 project/
-┣ 📜 notebook.ipynb
-┣ 📜 model_summary.txt
-┣ 📜 results.csv
-┣ 📁 models/
-┣ 📁 figures/
-┗ 📜 README.md
-
-
----
-
 ## 🔬 Key Contributions
 - Unified **GAN-ViT pipeline**
 - Robust classification under heavy noise
